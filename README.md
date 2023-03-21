@@ -1,11 +1,11 @@
-About abi3info
-==============
+About abi3info-feedstock
+========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/abi3info-feedstock/blob/main/LICENSE.txt)
 
 Home: https://pypi.org/project/abi3info/
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/abi3info-feedstock/blob/main/LICENSE.txt)
 
 Summary: A library for abi3 and other CPython API information
 
