@@ -1,5 +1,5 @@
 {% set name = "abi3info" %}
-{% set version = "2024.8.13" %}
+{% set version = "2024.8.28" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/abi3info-{{ version }}.tar.gz
-  sha256: 58926fafb4c665c0d41e24f5873c2b5e035f9ba2da01d6fa9a8a90e1c558a90b
+  sha256: aecbaf340bb1b089c57d508b8eef583929466102a29754674a40efc3521321ca
 
 build:
   noarch: python
